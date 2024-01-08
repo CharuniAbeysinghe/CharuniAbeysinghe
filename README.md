@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Charuni Abeysinghe
+- 👀 I’m mostly interested in Cyber ​​Security, Artificial intelligence, UI UX desigine.
+- 🌱 I’m currently learning A Bachelor of Science in Information Technology.
+- 💞️ I’m looking to collaborate on  team or a individual.
+- 📫 How to reach me 
+
+<!---
+CharuniAbeysinghe/CharuniAbeysinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
